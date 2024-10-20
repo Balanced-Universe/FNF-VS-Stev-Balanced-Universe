@@ -19,7 +19,7 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 
 ## Credits:
 * Sophie "Vaesea" Ball - Owner of VS Stev Red Heaven
-* https://www.youtube.com/@YaMarathoniansoldchannel75 - Creator of Dragon Quest, a song planned to be in a joke section for when this mod moves to Denpa Engine (unless i just do that one vsde thing or code in freeplay sections to the actual source code)
+* https://www.youtube.com/@YaMarathoniansoldchannel75 - Creator of Dragon Quest (Joke Stev song with no chart currently)
 * GregoryDavid1014 - Upcoming "Nullification" Arratev song (https://www.youtube.com/watch?v=3-jn11KGOXM)
 * SonicTheFunker - Miss Limit Script that's used in Beacon (https://gamebanana.com/tools/11843)
 * Alice (sillycodergirl), Piggyfriend1792, legole0 - Credits Script that's used in all songs (https://gamebanana.com/tools/11519)
