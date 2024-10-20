@@ -18,7 +18,8 @@ to start you off, disabling Videos should be simple, simply Delete the line `"VI
 same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `Project.xml` file
 
 ## Credits:
-* EggsAndBakey - Owner of VS Stev Red Heaven
+* Sophie "Vaesea" Ball - Owner of VS Stev Red Heaven
+* https://www.youtube.com/@YaMarathoniansoldchannel75 - Creator of Dragon Quest (Joke Stev song with no chart currently)
 * GregoryDavid1014 - Upcoming "Nullification" Arratev song (https://www.youtube.com/watch?v=3-jn11KGOXM)
 * SonicTheFunker - Miss Limit Script that's used in Beacon (https://gamebanana.com/tools/11843)
 * Alice (sillycodergirl), Piggyfriend1792, legole0 - Credits Script that's used in all songs (https://gamebanana.com/tools/11519)
