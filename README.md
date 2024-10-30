@@ -30,7 +30,7 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 * _Boxed, Shokora - WinningIcons.lua
 
 ### Special Thanks:
-* Your Average FNF Pro - Owner of VS Stev
+* Your Average FNF Pro - Owner of VS Stev. I know what he did and that's why I plan to replace songs like Hello and I Can Has Diamonds and the backgrounds of the Stev Week songs.
 * Other VS Stev Devs - Developers of VS Stev. No remixes of non-YAFNFP songs are planned at this time.
 * Depth - Beacon and Heaven both reference Stevforsaken.
 * Peirce Animations - Beacon and Heaven both reference KillAura, although it is planned to make Heaven and Beacon not reference KillAura at some point.
