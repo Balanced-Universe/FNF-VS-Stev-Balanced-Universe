@@ -1,6 +1,8 @@
 # Friday Night Funkin' - VS Stev Balanced Universe / VS Stev Red Heaven Revived
 This is a fan-mod of VS Stev.
+
 Engine is Psych Engine but with a few things changed that aren't important.
+
 If you want to contribute, you can do that by reporting issues in the issues tab and pull requesting in the pull requests tab. To pull request you need to create a fork of the repository.
 
 ## Compiling The Source Code:
