@@ -85,11 +85,11 @@ class PlayState extends MusicBeatState
 		['how', 0.4], //From 20% to 39%
 		['you suck so bad', 0.5], //From 40% to 49%
 		['what the sigma', 0.6], //From 50% to 59%
-		['bruh wtf', 0.69], //From 60% to 68%
-		['funny sixty nine', 0.7], //69%
+		['not good', 0.69], //From 60% to 68%
+		['ok', 0.7], //69%
 		['pretty good', 0.8], //From 70% to 79%
 		['oh nice', 0.9], //From 80% to 89%
-		['im bout to', 1], //From 90% to 99%
+		['wow', 1], //From 90% to 99%
 		['epic', 1] //The value on this one isn't used actually, since Perfect is always "1"
 	];
 
